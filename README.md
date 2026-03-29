@@ -10,4 +10,4 @@ step3 Then go Browser and search [localhost/roh/]
 
 step4 then go [phpmyAdmin] for create database and my database_name is crudyoutube.
 
-Then-> CREATE table crudtable ( id int(255) auto_increment not null primary key, username varchar(255), password varchar(255));
+Then go console-> CREATE table crudtable ( id int(255) auto_increment not null primary key, username varchar(255), password varchar(255));
