@@ -6,7 +6,7 @@ step2 Then start (Apache) and (MySql)
 
 Path:- C:\xampp1\htdocs\roh [for open the folder in visualstdio]
 
-step3 Then go Browser and search [localhost/cwh]
+step3 Then go Browser and search [localhost/roh/]
 
 step4 then go [phpmyAdmin] for create database and my database_name is crudyoutube.
 
